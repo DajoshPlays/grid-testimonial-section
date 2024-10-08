@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/DajoshPlays/grid-testimonial-section]
+- Live Site URL: [https://grid-testimonial-section-iota.vercel.app/]
 
 ## My process
 
